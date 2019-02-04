@@ -1,2 +1,2 @@
 # SRI
-% This code is from 2018 Phillips et al. Sci Reports.
+This matlab code is from 2018 Phillips et al. Sci Reports.
